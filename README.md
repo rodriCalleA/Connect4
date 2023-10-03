@@ -10,9 +10,9 @@ El trabajo consistirá en el desarrollo de un programa orientado a objetos que a
 
 Se han realizado dos versiones del proyecto:
 
-* Modelo del Dominio: [Connect4](https://github.com/rodriCalleA/Connect4/Connect4)
+* Modelo del Dominio: [Connect4](https://github.com/rodriCalleA/Connect4/tree/main/Connect4)
 
-* Vista/Modelo: [Connect4MV](https://github.com/rodriCalleA/Connect4/Connect4MV)
+* Vista/Modelo: [Connect4MV](https://github.com/rodriCalleA/Connect4/tree/main/Connect4MV)
 
 ### Autoevaluacíon
 
